@@ -1,0 +1,1 @@
+nome= Dogville, anoDeLancamento= 2003, duração em minutos: 178min
